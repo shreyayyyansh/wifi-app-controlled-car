@@ -11,3 +11,8 @@ EQUIPMENTS REQUIRED:
 7. Jumperwires both M2M & M2F
 8. USB cable
 9. A phone/laptop to work on
+
+Development of ESP board is not enabled by default, to install the board for development kindly refer to this video: https://shorturl.at/N7NKi
+Now, copy the code file and paste it on Arduino IDE.
+
+
