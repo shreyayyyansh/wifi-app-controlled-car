@@ -18,7 +18,10 @@ Now, copy the code file and paste it on Arduino IDE.
 
 Transfer it to the board and install the given apk application on your mobile phone.
 
-Make the connections between all the components and connect it to power supply.
+Make the connections between all the components and connect it to power supply. (Refer to the attached pin diagram)
+
+Install the .apk file on your phone.
 
 Now connect your phone to car's wifi network.
 
+Open the app and you're good to go.
