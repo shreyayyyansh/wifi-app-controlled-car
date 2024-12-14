@@ -18,7 +18,9 @@ Now, copy the code file and paste it on Arduino IDE.
 
 Transfer it to the board and install the given apk application on your mobile phone.
 
-Make the connections between all the components and connect it to power supply. (Refer to the attached pin diagram)
+Make the connections between all the components and connect it to power supply. (Refer to the attached pin diagram) 
+
+https://app.cirkitdesigner.com/project/8e7db4f4-b755-4c90-a2d8-1b4cf69ea520 (link to the editable circuit)
 
 Install the .apk file on your phone.
 
