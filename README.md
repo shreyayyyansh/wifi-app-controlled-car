@@ -12,7 +12,7 @@ EQUIPMENTS REQUIRED:
 8. USB cable
 9. A phone/laptop to work on
 
-Development of ESP board is not enabled by default, to install the board for development kindly refer to this video: https://shorturl.at/N7NKi .
+Development of ESP board is not enabled by default, to install the board for development kindly refer to this video: https://shorturl.at/N7NKi.
 
 Now, copy the code file and paste it on Arduino IDE.
 
@@ -25,16 +25,16 @@ https://app.cirkitdesigner.com/project/8e7db4f4-b755-4c90-a2d8-1b4cf69ea520 (lin
 There are 2 ways to control the car:
 1. Controlling through an Android phone:
 
- Install the .apk file on your phone.
+(i) Install the .apk file on your phone.
 
- Now connect your phone to car's wifi network.
+(ii) Now connect your phone to car's wifi network.
 
- Open the app and you're good to go.
+(iii) Open the app and you're good to go.
 
 2. Controlling through your laptop:
 
- Connect your laptop to car's wifi network.
+(i) Connect your laptop to car's wifi network.
 
- Go to https://192.168.4.1/ on any web browser of your choice.
+(ii) Go to https://192.168.4.1/ on any web browser of your choice.
 
 Enjoy!
