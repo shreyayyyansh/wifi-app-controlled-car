@@ -25,16 +25,16 @@ https://app.cirkitdesigner.com/project/8e7db4f4-b755-4c90-a2d8-1b4cf69ea520 (lin
 There are 2 ways to control the car:
 1. Controlling through an Android phone:
 
-Install the .apk file on your phone.
+ Install the .apk file on your phone.
 
-Now connect your phone to car's wifi network.
+ Now connect your phone to car's wifi network.
 
-Open the app and you're good to go.
+ Open the app and you're good to go.
 
 2. Controlling through your laptop:
 
-Connect your laptop to car's wifi network.
+ Connect your laptop to car's wifi network.
 
-Go to https://192.168.4.1/ on any web browser of your choice.
+ Go to https://192.168.4.1/ on any web browser of your choice.
 
 Enjoy!
