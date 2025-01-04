@@ -12,7 +12,18 @@ EQUIPMENTS REQUIRED:
 8. USB cable
 9. A phone/laptop to work on
 
-Development of ESP board is not enabled by default, to install the board for development kindly refer to this video: https://shorturl.at/N7NKi.
+Development of ESP board is not enabled by default, to install the ESP8266 board in your Arduino IDE, follow these next instructions:
+
+1. Open the preferences window from the Arduino IDE. Go to File>Preferences
+2. Enter http://arduino.esp8266.com/stable/package_esp8266com_in
+dex.json into Additional Board Manager URLs field and press the 
+“OK” button.
+3. Go to Tools>Board>Boards Manager
+4. Scroll down, select the ESP8266 board menu and Install “esp8266 by 
+ESP8266 Community”
+5. Go to Tools>Board>NodeMCU 1.0 (ESP-12E Module)
+6. Finally, re-open your Arduino IDE to ensure that it launches with the 
+new boards installed.
 
 Now, copy the code file and paste it on Arduino IDE.
 
