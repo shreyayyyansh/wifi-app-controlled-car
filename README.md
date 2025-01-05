@@ -16,11 +16,13 @@ Development of ESP board is not enabled by default, to install the ESP8266 board
 
 Now, copy the code file and paste it on Arduino IDE.
 
-Transfer it to the board and install the given apk application on your mobile phone.
+Transfer the code to the board. For any help, refer to the "Uploading code to ESP8266" pdf.
 
 Make the connections between all the components and connect it to power supply. (Refer to the attached pin diagram) 
 
 https://app.cirkitdesigner.com/project/8e7db4f4-b755-4c90-a2d8-1b4cf69ea520 (link to the editable circuit)
+
+Install the given apk application on your mobile phone.
 
 There are 2 ways to control the car:
 1. Controlling through an Android phone:
