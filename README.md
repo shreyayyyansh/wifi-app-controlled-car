@@ -8,9 +8,9 @@ EQUIPMENTS REQUIRED:
 4. Motors
 5. 12v D.C. power supply
 6. Wheels
-7. Jumperwires both M2M & M2F
-8. USB cable
-9. A phone/laptop to work on
+7. Jumperwires, both M2M & M2F
+8. microUSB cable
+9. A phone/laptop
 
 Development of ESP board is not enabled by default, to install the ESP8266 board in your Arduino IDE, follow the instructions in the pdf "IDE Installation guide".
 
